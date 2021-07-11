@@ -1,6 +1,6 @@
 # Featured Image to DataUrl  for WP-GraphQL
 
-Recently Nextjs Announce support for blur Image placeholder Its a great news for the NextJS comunity. This plugin ads a base64 bataUrl to post Query so you can use it as `blurDataURL` in NextJS.
+Recently Nextjs Announce support for blur Image placeholder Its a great news for the NextJS comunity. This plugin ads a base64 Featured Image dataUrl to Wp-graphql post Query so you can use it as `blurDataURL` in NextJS.
 
 
 ## Retrieving the Featured Image DataUrl.
@@ -26,7 +26,7 @@ This will then give you a result as such:
     "posts": {
       "nodes": [
         {
-          "featuredImageDataUrl": "data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//g.........................."
+          "featuredImageDataUrl": "data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//g..."
         },
         {
           "featuredImageDataUrl": null
