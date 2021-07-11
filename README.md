@@ -37,6 +37,9 @@ This will then give you a result as such:
 }
 ```
 
+## Todo
+
+1. Add this option inside the featuredImage node.
 
 
 ## Contributions
