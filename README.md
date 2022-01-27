@@ -1,4 +1,8 @@
-# Featured Image to DataUrl  for WP-GraphQL
+# This Repo is moved to (https://github.com/dipankarmaikap/wp-graphql-image-dataurl).
+
+
+
+## Featured Image to DataUrl  for WP-GraphQL
 
 Recently Nextjs Announce support for blur Image placeholder Its a great news for the NextJS comunity. This plugin ads a base64 Featured Image dataUrl to Wp-graphql post Query so you can use it as `blurDataURL` in NextJS.
 
